@@ -1,2 +1,0 @@
-# ¿Como empezar a programar?
-
